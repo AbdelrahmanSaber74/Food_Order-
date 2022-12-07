@@ -1,0 +1,94 @@
+.tbl  {
+
+width: 80%;
+margin: 10px auto 0;
+
+}
+
+.tbl tr th {
+
+border-bottom: 1px solid  black;
+padding: 1%;
+text-align: left;
+
+}
+
+.tbl tr td {
+ padding: 1%;
+    
+}
+
+.btn-primary {
+
+background-color: #1e90ff;
+padding: 1%;
+color: white;
+text-decoration: none;
+font-weight: bold;
+}
+
+.btn-primary:hover {
+background-color: #3742fa;
+
+}
+
+.btn-secondary {
+
+    background-color: #7bed9f;
+    padding: 1%;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+
+    }
+    
+    .btn-secondary:hover {
+    background-color: #2ed573;
+    color: black;
+
+    }
+
+.delete {
+
+
+    color: red;
+}
+
+    .btn-danger {
+
+        background-color: #ff6b81;
+        padding: 1%;
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        
+        }
+        
+        .btn-danger:hover {
+        background-color: #ff4757;
+        color: white;
+        }
+
+.text {
+    margin: 10px auto 0;
+    width: 80%;
+
+
+}
+
+
+.tbl-30 {
+
+width: 30%;
+font-weight: bold;
+}
+
+.tbl-30 tr td{
+padding: 10px;
+
+}
+
+img {
+
+    width: 100px;
+}
